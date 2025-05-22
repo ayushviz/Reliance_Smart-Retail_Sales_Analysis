@@ -2,5 +2,5 @@
 
   
 Created interactive dashboards to identify customer segments and seasonal trends through 
-storytelling visuals. - 
+storytelling visuals. 
 Created slicers, custom charts, and KPI cards to drive decision-making insights.
